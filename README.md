@@ -1,5 +1,6 @@
 # Street View Imagery Self-Supervised Learning with Trilateral Redundancy Reduction for Urban Functional Zone Identification
 
+*Note: Concise codes are provided. A more detailed *version* needs to be organized.*
 
 ![Tri-ReD](./Tri-ReD.jpg)
 
