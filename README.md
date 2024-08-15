@@ -6,8 +6,8 @@
 
 ## Datasets
 
-* [City-Scale Maps (CSM)](https://syncandshare.lrz.de/dl/fiTFS5He9bZsR4Urh8hZGDGg/BIC_GSV.tar.gz)
-* [BEAUTY](https://pan.baidu.com/share/init?surl=S-tEfY5_-Iuh1nrncGdKqQ&pwd=92eh)
+* [City-Scale Maps (CSM) & BIC_GSV](https://syncandshare.lrz.de/dl/fiTFS5He9bZsR4Urh8hZGDGg/BIC_GSV.tar.gz)
+* [BEAUTY](https://pan.baidu.com/s/1nSPU68H36CMsn5pboD5e9A?pwd=T78D)
 
 ## Requirements
 
